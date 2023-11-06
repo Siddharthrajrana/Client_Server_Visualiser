@@ -1,5 +1,8 @@
 # Client_Server_Visualiser
 This application facilitates communication between a client and server using Java Socket Programming, employing the TCP handshake protocol.
+
+![Screenshot from 2023-11-06 19-24-04](https://github.com/Siddharthrajrana/Client_Server_Visualiser/assets/92222918/0aa6b4b4-214e-477d-a45f-fcc5703b328c)
+
 Usage
 
     Start the Server by running the following command in your terminal: CTRL+ALT+T
@@ -35,8 +38,6 @@ Special thanks to all contributors and the Java community for their invaluable s
 For any questions or feedback, please contact the author.
 
 Screenshots
-
-![Screenshot from 2023-11-06 19-24-04](https://github.com/Siddharthrajrana/Client_Server_Visualiser/assets/92222918/0aa6b4b4-214e-477d-a45f-fcc5703b328c)
 ![Screenshot from 2023-11-06 19-38-49](https://github.com/Siddharthrajrana/Client_Server_Visualiser/assets/92222918/04ccd9f7-62bc-44c9-af6a-3d67cc2e8347)
 
 
